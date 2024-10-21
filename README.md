@@ -2,6 +2,9 @@
 
 **Ingénieur Logiciel Full-Stack**
 
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQEsHYJtn1tlTw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715143124698?e=1735171200&v=beta&t=RIUay8cENPcdfTy_jHt4cCwLsOsOy2Vfp23_RjIlVlE" alt="Photo d'Alexis Faure" style="border-radius: 50%; width: 150px; height: 150px;">
+
+
 ## Contact
 
 - 📞 Téléphone : +33 6 63 39 87 15
