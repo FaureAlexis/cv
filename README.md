@@ -28,7 +28,7 @@ _Juin 2023 - Présent_
 
 - Développement d’applications web avec **React.js**, **Node.js** et **GraphQL**.
 - Travail au sein d’une équipe de 5 développeurs.
-- Gestion de la chaîne d'approvisionnement avec **Electron.js**, **Raspberry Pi** et matériel.
+- Automatisation de la chaîne de production avec **Electron.js**, **Raspberry Pi** et matériel.
 - Développement de microservices distribués et serverless avec **AWS Lambda**.
 - Services Cloud avec **AWS**.
 
@@ -41,7 +41,7 @@ _Début 2021 - Présent_
 - Développement d’une application web pour gérer les leads via **Google Sheets**, avec des fonctionnalités de tri et d’export (Vue.js/Node.js).
 - Création d’un site e-commerce avec paiement en cryptomonnaies (**Vue.js + Tailwind/Node.js**).
 - Système d'authentification des données JSON utilisant la blockchain **Polygon** et le stockage **Pinata IPFS** (**Solidity/Node.js**).
-- Plateforme de mentorat pour une école d'IA (**React.js/Node.js**).
+- Plateforme de mentorat IA pour une école. (**React.js/Node.js**).
 
 ---
 
